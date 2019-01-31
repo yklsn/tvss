@@ -11,12 +11,6 @@ http://117.169.120.217:8080/live/fhchinese/.m3u8
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:020,凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:015,CNEX纪实
-http://61.58.60.230:9000/live/257.m3u8
-#EXTINF:016,澳亚卫视
-http://61.58.60.230:9000/live/256.m3u8
-#EXTINF:023,TVB娱乐新闻台
-http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 #EXTINF:025,好消息一台
 http://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:026,好消息二台
